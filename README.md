@@ -1,2 +1,0 @@
-# jdlphoto
-JDL.Photo Site
