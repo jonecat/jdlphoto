@@ -1,0 +1,102 @@
+
+
+p {
+	font-size:16px;
+	}
+
+.imgfull{
+	width: 100%;	
+	
+	}
+
+.subhead{
+	font-size: 24px;
+	
+	}
+
+.icon{
+	text-align:center;
+	margin:0px;
+	background-color:#fff;
+		
+}
+
+.icon h3{
+	margin-top:0px;
+	padding:10px;
+	background-color:#eee;
+	
+	}
+
+.iconimg {
+	width: 100%;	
+	padding-bottom:-20px;
+	
+	}
+
+
+.hero-unit {
+    background-image:url('../img/header.jpg');
+    background-size:cover;
+    background-color: #EEEEEE;
+    height:500px;
+}
+
+
+.jumbotron-fluid {
+    color: #FFFFFF;
+    font-size: 50px;
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 0;
+	align-content:center;
+	padding-top: 225px;
+    background-image:url('../img/header.jpg');
+    background-size:cover;
+    background-color: #EEEEEE;
+    height:500px;
+
+	
+}
+	
+
+
+  
+
+.hero-unit h1 {
+    color: #FFFFFF;
+    font-size: 50px;
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 0;
+	align-content:center;
+	padding-top: 225px;
+    
+
+	
+}
+.hero-unit h2 {
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+
+/* extra Small devices (tablets, 480px and up) */
+@media screen and (min-width: 480px) {
+	
+	}
+/* Small devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+	
+	}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+	
+	}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+	
+	}
+	
