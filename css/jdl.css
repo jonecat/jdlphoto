@@ -16,6 +16,16 @@ hr {
 	padding-top: 25px;
 	height: 0;
 }
+
+.p {
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 18px
+
+
+}
 .videoWrapper iframe {
 	position: absolute;
 	top: 0;
